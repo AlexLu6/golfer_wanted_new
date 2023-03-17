@@ -1,0 +1,84 @@
+{
+  "project_info": {
+    "project_number": "301278524425",
+    "project_id": "golferclub-fce89",
+    "storage_bucket": "golferclub-fce89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301278524425:android:df818845775cfc8e4074d8",
+        "android_client_info": {
+          "package_name": "com.niahome.golferclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301278524425-9ogenbrbtruncb07nk8e009v6b61pjbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2g9-ydkWCwzQ3f-8mUi1MQ7yIpOUeCwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301278524425-9ogenbrbtruncb07nk8e009v6b61pjbm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301278524425-7hd4g3ud38vpi0bn1cvg3jurpgj094hd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.niahome.golferclub",
+                "app_store_id": "710408"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301278524425:android:96f5339aaa7ee0e74074d8",
+        "android_client_info": {
+          "package_name": "com.niahome.golferwanted"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301278524425-9ogenbrbtruncb07nk8e009v6b61pjbm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2g9-ydkWCwzQ3f-8mUi1MQ7yIpOUeCwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301278524425-9ogenbrbtruncb07nk8e009v6b61pjbm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301278524425-7hd4g3ud38vpi0bn1cvg3jurpgj094hd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.niahome.golferclub",
+                "app_store_id": "710408"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
